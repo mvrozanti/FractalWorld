@@ -1,6 +1,6 @@
 # FractalWorld
 
-Fractal animation written
+Fractal animation in Javascript
 
 ## Goals
 
@@ -17,7 +17,3 @@ Trying to get this to work fullscreen
 ## Credits
 
 Inspired by <a href="http://perceptron.sourceforge.net/vortex.html">Perceptron</a>
-
-## License
-
-TODO: Write license
